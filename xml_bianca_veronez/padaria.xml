@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<padaria> 
+<salgado>
+<nome> Coxinha de Frango </nome>
+<preco> 6.00 </preco>
+<calorias> 380 </calorias> 
+</salgado>
+
+<salgado> 
+<nome> Pão de Queijo </nome>
+<preco> 2.00 </preco>
+<calorias> 50 </calorias>
+
+</salgado>
+</padaria>

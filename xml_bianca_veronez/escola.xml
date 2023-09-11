@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<escola>
+	<aluno>
+		<nome> Bianca </nome>
+		<curso> DS </curso>
+		<nascimento>
+          <dia> 29 </dia>
+          <mes> 09 </mes>
+          <ano> 2004 </ano>
+		</nascimento>
+	
+			<logradouro> Rua 7 de setembro </logradouro>
+			<numero> 200 </numero>
+			<complemento> apt 30 </complemento>
+			<bairro> Centro </bairro>
+			<cep> 15999-999</cep>
+		 
+		 <cidade> São Jose </cidade>
+	</aluno>
+
+		<aluno>
+		 <nome> Bia </nome>
+	 	 <curso> DS </curso>
+		 <nascimento>
+           <dia> 29 </dia>
+           <mes> 09 </mes>
+           <ano> 2004 </ano>
+		 </nascimento>
+		
+			<logradouro> Rua das Flores </logradouro>
+			<numero> 5900 </numero>
+			<complemento> apt 43 </complemento>
+			<bairro> Marechal Deodoro </bairro>
+			<cep> 15200-000</cep>
+		 
+		 <cidade> Mirassolândia </cidade>
+		</aluno>
+
+		
+
+</escola>
